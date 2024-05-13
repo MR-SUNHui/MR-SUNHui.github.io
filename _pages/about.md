@@ -16,7 +16,11 @@ Current Research
 My research interests span several cutting-edge areas, including:
 
 Deep Learning-Based Super-Resolution Microscopy: Developing advanced imaging techniques to achieve higher resolution in microscopy using deep learning algorithms.
+
 Natural Language Processing (NLP): Exploring the complexities of human language and improving communication between humans and machines through sophisticated NLP models.
+
 Multimodal and Multitask Learning: Integrating multiple data sources and tasks to create more robust and versatile AI systems that can handle diverse inputs and objectives simultaneously.
+
 Micro-Nano Sensor Fabrication: Designing and fabricating sensors at the micro and nano scale to enhance precision and functionality in various applications.
+
 Through my work, I aim to contribute to the advancement of technology and science, driving innovation and improving the quality of life.

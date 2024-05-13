@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, City University of Hong Kong, 2024
+* M.S. in Control Theory and Control Engineering, Northeastern University, 2020
+* B.S. in Electrical Engineering and Automation, Sichuan Agricultural University, 2016
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,6 +32,7 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+-->
   
 Skills
 ======

@@ -22,11 +22,13 @@ author_profile: true
             border-bottom: 1px solid #ddd;
         }
         .audio-container {
-            width: 100%;
-            max-width: 300px; /* Ensures audio controls fit within this width */
+            width: 100%; /* 容器宽度为100%，使得音频控件能够适应不同屏幕 */
+            display: flex;
+            justify-content: center; /* 居中显示音频控件 */
         }
         audio {
-            width: 100%; /* Ensures audio controls stretch to fill container */
+            width: 100%; /* 音频控件宽度为100% */
+            max-width: 300px; /* 最大宽度限制为300px */
         }
     </style>
 </head>

@@ -25,18 +25,17 @@ author_profile: true
         }
         th, td {
             padding: 8px;
-            text-align: left;
+            text-align: center; /* 设置文字和音频居中显示 */
             border-bottom: 1px solid #ddd;
         }
         .audio-container {
-            width: 100%; /* 保持容器宽度为100%，以适应不同屏幕大小 */
             display: flex;
             justify-content: center; /* 使用flex布局居中音频控件 */
             align-items: center; /* 垂直居中 */
+            height: 50px; /* 设置容器高度 */
         }
         audio {
             width: 100%; /* 音频控件宽度自适应容器宽度 */
-            max-width: 300px; /* 音频控件的最大宽度限制为300px，保持显示一致性 */
         }
     </style>
 </head>
